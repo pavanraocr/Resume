@@ -1,0 +1,91 @@
+﻿PAVAN RAO CHICKBELLAVANGALA RAGHAVENDRA        
+Chicago, IL, US
+
++1-(312)-975-4760                                        
+pchickbe@hawk.iit.edu 
+
+https://www.github.com/pavanraocr                                
+https://www.linkedin.com/in/pavanraocr                       
+https://pavanraocr.herokuapp.com 
+
+EDUCATION
+Illinois Institute Of Technology, Master’s in Computer Science (GPA: 3.6/4.0)
+May 2017
+	* Design and Analysis Of Algorithms, Cloud Computing, Advanced Database Organization, Software Systems Architecture
+Visvesvaraya Technological University, Bachelors of Engineering in Information Science
+June 2013
+	* Two-semester teaching assistant: Object Oriented Programming Language, and Programming in JAVA/C/C++
+
+COMPUTER SKILLS
+	* Android, Python, C/C++, Java, JavaScript, HTML5, FLEX, jQuery, CSS, jqPlot, BASH, Restful API, ActionScript, NumPy
+	* MySQL, SQLite, JSON, AWS, Hadoop, Spark, GDB, Pandas
+	* Impulse Cultural club: Core committee member
+	* HP Agile Manager, Filezilla, GitHub, Photoshop, Agile Process
+
+LEADERSHIP SKILLS
+	* Lead a team of 2 to develop next-gen application at Mu Sigma
+	* Recruitment Department: Placement Coordinator
+
+WORK EXPERIENCE
+	Illinois Institute of Technology, Chicago, IL, USA (C/ Python)
+	Aug 2016 – May 2017
+	Research Assistant, C/Python Programmer of Smart Grid Simulation under Dr. Alexander Flueck
+
+	* Redesigned data structures used in smart grid simulator to reduced cache misses, hence improving the performance
+	* Developing Python Scripts that generates C programming code required for the application which enabled rapid development of new models, also scripts that execute the same application with 		  different configurations and generates short/detailed summary reports of each execution
+	
+	Mu-Sigma Inc, Bangalore, KA, INDIA (Java/Flex/HTML/Javascript/jQuery)
+	Aug 2013 – Jun 2015
+	Software Developer, Products Team 
+	* Part of a team that developed different modules of an analytical application like Data Visualisation, Correlation, EDA, Data Modeling
+	* Worked on redesigning UI of the application to make it follow the standards defined by Material Design guidelines
+	* Normalized the tables of data visualization module from UNF to 3NF which improved maintainability and performance of data access
+	* Developed web application for data visualization using JqPlots and JQuery and embedded it on the existing flex framework application since native data visualization support provided by flex slowed the application phenomenally as the scale of the data being plotted increased.
+	* Optimized the logic used for data filtering before it is plotted onto multiple graphs on a single operation, reducing the time complexity to linear
+	* Refactored architecture of the applications by introducing Fast-Injection using Parsley which improved the responsiveness by nearly 2 folds
+
+RESEARCH AND PROJECTS
+
+Mobile Application Development (Android)
+Spring 2017
+	* Notes - User can create, delete and edit notes which are listed by using recyclerview and asynchronously saving the notes to the file system
+	* Stock Monitor - List stock details of searched companies by using multiple restful API calls. Stocks color vary with fluctuations in stocks.
+	* Your Government - Gives a quick access to all the government officials listed in hierarchical order based on users current or searched location
+	* News - Different news channels under single application with a category filter in a drawer layout. Top articles from any news channel selected are displayed using Page Viewer layout. Services manage the API request and parsing logic when the application broadcasts a message.
+
+Operating System Design And Implementation (C language)
+Fall 2016
+	* Developed custom shell for the Minix 3.3.0 OS which executes any system call along with a functionality of running commands in parallel
+	* Created blocking and non-blocking version of send and receive system calls that can send, store and retrieve messages stored in the kernel space 
+	* Implemented Inter-Process Communication (IPC) feature between groups of processes with deadlock detection and recovery on Minix 3.3.0 OS
+
+Online Social Network Analysis (Python)
+Fall 2016
+	* Developed Community detection and link prediction algorithms using Partition Girvan-Newman and Jaccard similarity on Twitter data
+	* Built a logistic regression text classifier which determines the sentiment of a movie review. Improved accuracy by k-folds cross-validation
+	* Formulated content based recommendation system that suggests movies based on users past rating and the similarities between those movies
+
+Cloud Computing (Java/Python)
+Spring 2016
+	* Benchmarked CPU, Memory and Disks of AWS EC2 instances and compared it with results of benchmarking tools like Linpack and Stream
+	* Implemented sorting application for large datasets(over Terabyte) in Hadoop, Spark frameworks and compared its performance
+	* Created a manager application that spawns and terminates EC2 instances based on the load present in SQS queue along with DynamoDB
+
+Synthesis of Trees of Gates: Fan-in Tree Embedding (IEEE paper) (Java)
+Fall 2015
+	* Studied and implemented a Dynamic Programming strategy to construct an optimum Fan-in Tree of gates 
+	* Minimized the output delay with controlled cost factor which reduced the complexity from exponential to polynomial
+
+Database Development (C language)  (Advanced Database Organization)
+	Fall 2015
+	* Developed software which allows the user to Create, Delete and Manipulate tables with an interface similar to that of SQL queries
+	* Created a buffer manager that governs the number of pages loaded on the memory, I/O access to secondary memory at any given point of time
+	* Implemented FIFO/LRU page replacement strategies to swap the pages from memory whenever a page miss occurs while accessing records
+
+Virtual Dine: (Augmented Reality/Android/Vuforia)
+	Spring 2013
+	* Conceptualized, designed and implemented application which gives all the details of the restaurant only by snapping a picture of company logo
+	* Developed image recognition module using Vuforia framework, restaurant’s location is visualized using Google Map module with SQLite DB
+
+AWARDS AND RECOGNITION
+	* Earned two Spot Awards for excellent performance in software development at Mu-Sigma Business Solutions, India
